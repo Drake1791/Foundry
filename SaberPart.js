@@ -1,0 +1,1 @@
+// SaberPart component placeholder

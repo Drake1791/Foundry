@@ -1,0 +1,1 @@
+// Firebase function for Stripe webhook placeholder
